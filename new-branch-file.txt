@@ -1,2 +1,3 @@
 New branch file only only shows up in the new branch
 
+New Branch file makes changes in main and in the new branch
